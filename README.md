@@ -1,6 +1,6 @@
-# neomake-local-eslint.vim
+# neomake-local-flow.vim
 
-Prefer local repo install of eslint over global install with neomake
+Prefer local repo install of flow over global install with neomake
 
 Thanks to [@mtscout6](https://github.com/mtscout6) for the syntastic version as
 inspiration, and [@ohjames](https://github.com/ohjames) for performance
@@ -12,7 +12,7 @@ Installation Instructions
 Using [vim plugged](https://github.com/junegunn/vim-plug) you just need to add the following to your vimrc:
 
 ```
-Plug 'benjie/neomake-local-eslint.vim'
+Plug 'benjie/neomake-local-flow.vim'
 ```
 
 Then open vim and run `:PlugInstall`
