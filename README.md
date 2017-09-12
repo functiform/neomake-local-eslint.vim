@@ -12,7 +12,7 @@ Installation Instructions
 Using [vim plugged](https://github.com/junegunn/vim-plug) you just need to add the following to your vimrc:
 
 ```
-Plug 'benjie/neomake-local-flow.vim'
+Plug 'functiform/neomake-local-flow.vim'
 ```
 
 Then open vim and run `:PlugInstall`
